@@ -1,2 +1,2 @@
-# Natural language process Course - AIMS Senegal
-Course materials for introduction to natural language processing
+# NLP Course - AIMS Senegal
+Course materials for the introduction to natural language processing 
