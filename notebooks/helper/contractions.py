@@ -8,7 +8,7 @@ Created on Mon Aug 01 01:11:02 2016
 CONTRACTION_MAP = {
 	"ain't": "is not",
 	"aren't": "are not",
-	"bday": "birthday",
+	"bday": "birthday", # slang
 	"bday!": "birthday",
 	"can't": "cannot",
 	"can't've": "cannot have",
